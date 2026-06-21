@@ -1,5 +1,5 @@
 ## 🌻 Sobre mim:
-Ola, meu nome é Ana Júlia sou studante de TI no Colégio COTEMIG e estou buscando minha primeira experiência profissional na área de tecnologia, onde irei aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores. 🖥️ Apaixonada por aprender e resolver problemas em equipe. ✉️ Contato: anajuliaalvares.dev@gmail.com
+Ola, meu nome é Ana Júlia me formei em TI no Colégio COTEMIG, estou cursando graduação na PUC Minas e estou buscando novas experiências profissionais na área de tecnologia, onde irei aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores. 🖥️ Apaixonada por aprender e resolver problemas em equipe. ✉️ Contato: anajuliacampos.100@gmail.com
 ## 🌐 Redes Socias:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-alvares-a191a6271/)
 ## 💡 Meus Conhecimentos:
